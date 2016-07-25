@@ -1,0 +1,6 @@
+MaxCost,10000
+StateCost,0
+CostParSecond,50
+DemonCost,100
+SoldierCost,300
+HouseCost,3000
