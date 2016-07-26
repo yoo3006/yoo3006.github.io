@@ -3,5 +3,5 @@ Demon,popo,POPO,550,35,2,1,2
 Demon,pupu,PUPU,250,65,3,2,3.5
 Demon,pipi,PIPI,150,20,5,1,5
 Soldier,shield,Shield,530,100,6,1,2
-Soldier,ax,Ax,250,250,3,1,2
-Soldier,gun,Gun,200,90,3,1,4
+Soldier,ax,Ax,250,250,3,1,4
+Soldier,gun,Gun,200,90,3,1,6
