@@ -1,5 +1,5 @@
 Type,ID,NAME,HP,ATK,SPEED,ATKSPEED,ATKRENGE
-Demon,popo,POPO,550,35,2,1,2
+Demon,popo,POPO,450,35,2,1,2
 Demon,pupu,PUPU,250,65,3,2,3.5
 Demon,pipi,PIPI,150,20,5,1,5
 Soldier,shield,Shield,530,100,6,1,2
