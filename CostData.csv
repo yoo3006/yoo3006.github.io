@@ -1,2 +1,2 @@
 MaxCost,StateCost,CostParSecond,DemonCost,DemonCostRate,SoldierCost,HouseCost
-10000,900,50,100,0.1,100,100
+10000,900,50,100,0.01,100,100
