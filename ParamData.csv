@@ -4,4 +4,4 @@ Demon,pupu,PUPU,150,250,3,2,8
 Demon,pipi,PIPI,100,50,5,2,13
 Soldier,shield,Shield,1000,200,5,2,4
 Soldier,ax,Ax,300,500,3,2,8
-Soldier,gun,Gun,200,100,5,1,20
+Soldier,gun,Gun,200,50,5,1,40
